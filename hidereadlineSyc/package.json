@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node mv cmd"
+  },
+  "keywords": [
+    "node",
+    "async"
+  ],
+  "author": "Syed Samid",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
